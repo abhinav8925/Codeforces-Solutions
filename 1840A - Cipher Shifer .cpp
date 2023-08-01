@@ -101,7 +101,7 @@ void solve()
             int st = i;
             cout << s[i];
             i++;
-            while (s[ii+] != s[st]);
+            while (s[i++] != s[st]);
                 
         }
         cout << endl;
