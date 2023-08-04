@@ -105,7 +105,7 @@ void solve()
     }
     
     
-    if(sum+((n-1)*10) >=d)
+    if(sum+((n-1)*10) >d)
         cout << -1 << endl;
     else{
         int rem = d-sum;
