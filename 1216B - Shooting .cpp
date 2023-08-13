@@ -4,7 +4,7 @@
   Date -> 13th August 2023
   Code by - Abhinav Anand
 
-  Problem link -> https://codeforces.com/problemset/problem/1183/B
+  Problem link -> https://codeforces.com/problemset/problem/1216/B
 
 */
 
