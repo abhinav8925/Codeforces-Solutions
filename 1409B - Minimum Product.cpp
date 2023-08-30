@@ -101,7 +101,7 @@ void solve()
     ll a,b,x,y,n;
     cin>>a>>b>>x>>y>>n;
     
-    ll ans=min(ch(a,b,x,y,n),ch(a,b,x,y,n));
+    ll ans=min(ch(a,b,x,y,n),ch(b,a,y,x,n));
     
     
     cout << ans << endl;
